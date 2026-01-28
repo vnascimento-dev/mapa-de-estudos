@@ -2,7 +2,7 @@
 
 ## 🔹 FASE 1 — Base SÓLIDA (essencial)
 - [ ] JavaScript moderno
-  - [ ] let / const
+  - [✅] let / const
   - [ ] Arrow functions
   - [ ] Destructuring
   - [ ] Spread / Rest
